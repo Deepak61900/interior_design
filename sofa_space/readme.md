@@ -15,3 +15,4 @@
 - Don't like the coffe table, add something like below for render
   - [samples](ideas/coffee_table_ideas/)
 - Curtains should be blackout curtains (for production)
+- Both back wall of tv unit and back of sofa wall can have same/similar wallpaper

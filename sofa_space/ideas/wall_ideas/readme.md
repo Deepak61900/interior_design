@@ -15,4 +15,5 @@
 <img src="./Screenshot%202026-06-03%20at%201.22.50 AM.png" alt="inspiration 14" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
 <img src="./Screenshot%202026-06-03%20at%201.23.25 AM.png" alt="inspiration 15" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
 <img src="./Screenshot%202026-06-03%20at%201.23.43 AM.png" alt="inspiration 16" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Gemini_Generated_Image_6yt8c66yt8c66yt8.png" alt="inspiration 17" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
 </div>
