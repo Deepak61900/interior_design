@@ -1,3 +1,4 @@
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: flex-start; width: 100%;">
 <img src="./Screenshot%202026-06-03%20at%201.38.58 AM.png" alt="inspiration 1" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
 <img src="./Screenshot%202026-06-03%20at%201.39.02 AM.png" alt="inspiration 2" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
 <img src="./Screenshot%202026-06-03%20at%201.39.06 AM.png" alt="inspiration 3" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
@@ -13,3 +14,4 @@
 <img src="./Screenshot%202026-06-03%20at%201.47.01 AM.png" alt="inspiration 13" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
 <img src="./Screenshot%202026-06-03%20at%201.47.45 AM.png" alt="inspiration 14" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
 <img src="./Screenshot%202026-06-03%20at%201.47.51 AM.png" alt="inspiration 15" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+</div>
