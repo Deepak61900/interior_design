@@ -1,16 +1,16 @@
-![inspiration 1](./Screenshot%202026-06-03%20at%201.15.03 AM.png)
-![inspiration 2](./Screenshot%202026-06-03%20at%201.15.31 AM.png)
-![inspiration 3](./Screenshot%202026-06-03%20at%201.16.20 AM.png)
-![inspiration 4](./Screenshot%202026-06-03%20at%201.16.35 AM.png)
-![inspiration 5](./Screenshot%202026-06-03%20at%201.18.47 AM.png)
-![inspiration 6](./Screenshot%202026-06-03%20at%201.19.00 AM.png)
-![inspiration 7](./Screenshot%202026-06-03%20at%201.19.14 AM.png)
-![inspiration 8](./Screenshot%202026-06-03%20at%201.19.32 AM.png)
-![inspiration 9](./Screenshot%202026-06-03%20at%201.19.46 AM.png)
-![inspiration 10](./Screenshot%202026-06-03%20at%201.20.00 AM.png)
-![inspiration 11](./Screenshot%202026-06-03%20at%201.20.18 AM.png)
-![inspiration 12](./Screenshot%202026-06-03%20at%201.20.37 AM.png)
-![inspiration 13](./Screenshot%202026-06-03%20at%201.22.28 AM.png)
-![inspiration 14](./Screenshot%202026-06-03%20at%201.22.50 AM.png)
-![inspiration 15](./Screenshot%202026-06-03%20at%201.23.25 AM.png)
-![inspiration 16](./Screenshot%202026-06-03%20at%201.23.43 AM.png)
+<img src="./Screenshot%202026-06-03%20at%201.15.03 AM.png" alt="inspiration 1" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-03%20at%201.15.31 AM.png" alt="inspiration 2" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-03%20at%201.16.20 AM.png" alt="inspiration 3" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-03%20at%201.16.35 AM.png" alt="inspiration 4" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-03%20at%201.18.47 AM.png" alt="inspiration 5" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-03%20at%201.19.00 AM.png" alt="inspiration 6" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-03%20at%201.19.14 AM.png" alt="inspiration 7" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-03%20at%201.19.32 AM.png" alt="inspiration 8" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-03%20at%201.19.46 AM.png" alt="inspiration 9" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-03%20at%201.20.00 AM.png" alt="inspiration 10" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-03%20at%201.20.18 AM.png" alt="inspiration 11" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-03%20at%201.20.37 AM.png" alt="inspiration 12" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-03%20at%201.22.28 AM.png" alt="inspiration 13" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-03%20at%201.22.50 AM.png" alt="inspiration 14" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-03%20at%201.23.25 AM.png" alt="inspiration 15" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-03%20at%201.23.43 AM.png" alt="inspiration 16" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
