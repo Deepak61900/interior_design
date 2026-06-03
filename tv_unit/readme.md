@@ -6,3 +6,5 @@
 - TV is 65 inches so design accordingly
 - Widen the Pooja unit
 - Real marble base in Pooja unit
+- Can we move pooja unit to the middle room in one of the cupboards
+  - Discuss with maa

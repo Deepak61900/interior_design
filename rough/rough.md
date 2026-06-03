@@ -14,6 +14,8 @@
 - cove light brigtness
 - AC
 - Computer table
+- pooja unit
+- open veg baskets
 
 ### TV Unit
 
