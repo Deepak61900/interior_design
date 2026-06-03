@@ -20,3 +20,8 @@
   - [Inspiration](./ideas/Screenshot%202026-06-04%20at%202.19.08 AM.png)
   - Anyway have to buy new fridge
 - Overall design ideas [inspirations](./ideas/overall_ideas/)
+- breakfast counter [inspirations](./ideas/breakfast_counter/)
+- Sink drain is on the other side, make notice to Jyotika
+- Need no cover section for quick daily use like salt sugar like [this](./jyotika_render/Screenshot%202026-06-04%20at%2012.26.35 AM.png)
+- Integrated gas stove [inspiration](./ideas/Screenshot%202026-06-04%20at%202.59.51 AM.png)
+- Where is the space to put cylinder, can it be kept beneth the utility area sink ? [here](/utility_area/jyotika_render/Screenshot%202026-06-04%20at%203.04.57 AM.png)

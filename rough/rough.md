@@ -23,6 +23,12 @@
 - all the cupboards should have lights
 - Nothing glossy, medium matt is great for everything
 - Overall theme is like the tv unit. all wood+black matching with light wallpapers
+- towel hanger in all bathrooms
+- I think we have less storage, increase it
+- kitchen sink design
+- plumbing design, nal, toti etc.
+- bathroom sink design
+- hand towel in utility area
 
 ### TV Unit
 
