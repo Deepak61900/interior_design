@@ -1,0 +1,32 @@
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: flex-start; width: 100%;">
+<img src="./Screenshot%202026-06-04%20at%202.09.50 AM.png" alt="inspiration 1" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-04%20at%202.10.12 AM.png" alt="inspiration 2" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-04%20at%202.10.18 AM.png" alt="inspiration 3" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-04%20at%202.12.58 AM.png" alt="inspiration 4" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-04%20at%202.13.59 AM.png" alt="inspiration 5" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-04%20at%202.14.23 AM.png" alt="inspiration 6" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-04%20at%202.14.30 AM.png" alt="inspiration 7" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-04%20at%202.15.34 AM.png" alt="inspiration 8" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-04%20at%202.15.46 AM.png" alt="inspiration 9" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-04%20at%202.16.17 AM.png" alt="inspiration 10" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-04%20at%202.16.28 AM.png" alt="inspiration 11" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-04%20at%202.16.48 AM.png" alt="inspiration 12" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-04%20at%202.17.24 AM.png" alt="inspiration 13" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-04%20at%202.18.04 AM.png" alt="inspiration 14" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-04%20at%202.22.05 AM.png" alt="inspiration 15" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-04%20at%202.22.13 AM.png" alt="inspiration 16" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-04%20at%202.22.24 AM.png" alt="inspiration 17" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-04%20at%202.22.41 AM.png" alt="inspiration 18" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-04%20at%202.22.56 AM.png" alt="inspiration 19" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-04%20at%202.23.08 AM.png" alt="inspiration 20" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-04%20at%202.23.17 AM.png" alt="inspiration 21" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-04%20at%202.24.44 AM.png" alt="inspiration 22" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-04%20at%202.24.59 AM.png" alt="inspiration 23" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-04%20at%202.25.36 AM.png" alt="inspiration 24" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-04%20at%202.26.44 AM.png" alt="inspiration 25" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-04%20at%202.27.08 AM.png" alt="inspiration 26" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-04%20at%202.27.23 AM.png" alt="inspiration 27" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-04%20at%202.27.42 AM.png" alt="inspiration 28" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-04%20at%202.30.07 AM.png" alt="inspiration 29" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-04%20at%202.30.19 AM.png" alt="inspiration 30" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+</div>

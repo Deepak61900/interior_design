@@ -15,7 +15,14 @@
 - AC
 - Computer table
 - pooja unit
-- open veg baskets
+- app control switches
+- Lan connection
+- Wifi range and router positioning
+- kitchen lighting, decorative focused light
+- kitchen drawer handle
+- all the cupboards should have lights
+- Nothing glossy, medium matt is great for everything
+- Overall theme is like the tv unit. all wood+black matching with light wallpapers
 
 ### TV Unit
 

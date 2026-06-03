@@ -1,0 +1,22 @@
+## Notes
+
+- should we do [open veg baskets](./ideas/Screenshot%202026-06-04%20at%2012.30.31 AM.png)
+- Will there be nothing above the fridge, how do we do fridge space where it can fit future fridge dimentions
+- Stretch the loft above washing matching till the door It isn't looking symmetrical
+- Loft can be added above fridge as well
+- Breakfast counter is not matching with tall unit and other cupboards
+- middle cupboard can be of different color or can be ridged glass
+  - [inspiration](./ideas/Screenshot%202026-06-04%20at%202.02.55 AM.png)
+  - [inspiration](./ideas/Screenshot%202026-06-04%20at%202.03.33 AM.png)
+  - [inspiration](./ideas/Screenshot%202026-06-04%20at%202.03.03 AM.png)
+  - [inspiration](./ideas/Screenshot%202026-06-04%20at%202.27.42 AM.png)
+- Can't we cover the chimney
+  - [inspiration](./ideas/Screenshot%202026-06-04%20at%202.09.50 AM.png)
+  - [inspiration](./ideas/Screenshot%202026-06-04%20at%202.10.12 AM.png)
+  - [inspiration](./ideas/Screenshot%202026-06-04%20at%202.10.18 AM.png)
+- Edge to edge integrated fridge
+  - [Inspiration](./ideas/Screenshot%202026-06-04%20at%202.18.36 AM.png)
+  - [Inspiration](./ideas/Screenshot%202026-06-04%20at%202.18.54 AM.png)
+  - [Inspiration](./ideas/Screenshot%202026-06-04%20at%202.19.08 AM.png)
+  - Anyway have to buy new fridge
+- Overall design ideas [inspirations](./ideas/overall_ideas/)
