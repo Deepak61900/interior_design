@@ -29,4 +29,11 @@
 <img src="./Screenshot%202026-06-04%20at%202.27.42 AM.png" alt="inspiration 28" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
 <img src="./Screenshot%202026-06-04%20at%202.30.07 AM.png" alt="inspiration 29" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
 <img src="./Screenshot%202026-06-04%20at%202.30.19 AM.png" alt="inspiration 30" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-09%20at%201.53.36 AM.png" alt="inspiration 31" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-09%20at%201.53.51 AM.png" alt="inspiration 32" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-09%20at%201.54.29 AM.png" alt="inspiration 33" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-11%20at%202.53.41 AM.png" alt="inspiration 34" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-11%20at%203.47.43 AM.png" alt="inspiration 35" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-11%20at%203.47.48 AM.png" alt="inspiration 36" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
+<img src="./Screenshot%202026-06-11%20at%204.10.15 AM.png" alt="inspiration 37" style="height: 50vh; width: auto; max-width: 100%; object-fit: contain; display: block;" />
 </div>
