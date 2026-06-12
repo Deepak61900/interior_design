@@ -1,0 +1,50 @@
+## Notes
+
+- This is the room with both balcony and attached bathroom
+- TV is going to be 55 or 65 inches, so design for both
+- False ceiling options for the room
+- What size beds are in the render ?
+- wardrobe options
+  - Option1: Can the cupboards go beside the balcony slider ?
+    - [inspirations](./ideas/wardrobe/)
+    - One of the cupboards can have mirror and dressing integrated
+    - can shift dressing to the wall beside bathroom door
+      - can have a bedside table integrated to the dressing
+    - Along with around balcony slider, additionally one wall too
+  - Option2: Integrated with bed plus one side (beside washroom door)
+    - [inspirations](./ideas/bed_wardrobe/)
+    - bed can be a at a distance from the wall maybe [cushion distance](./ideas/bed_wardrobe/Screenshot%202026-06-09%20at%202.47.51 AM.png) or [full wardrobe](./ideas/bed_wardrobe/Screenshot%202026-06-09%20at%202.27.29 AM.png) distance.
+    - The loft above head may [not be present](./ideas/bed_wardrobe/Screenshot%202026-06-09%20at%202.29.02 AM.png) or of [half depth](./ideas/bed_wardrobe/Screenshot%202026-06-09%20at%202.53.39 AM.png) maybe matching with cushion
+    - If possible some space to be given beside the bed like [this](./ideas/bed_wardrobe/Screenshot%202026-06-09%20at%202.51.28 AM.png) or like [this](./ideas/bed_wardrobe/Screenshot%202026-06-09%20at%202.33.10 AM.png) so the person does not have wardrobe to his face
+- what will be the drawer distribution ? [this](./ideas/Screenshot%202026-06-09%20at%201.56.24 AM.png)
+- [Full height](./ideas/wardrobe/Screenshot%202026-06-09%20at%202.05.08 AM.png) looks better than separate loft
+- lights inside wardrobe
+- beds should have storage
+- beds should have cushions at the back like [this](./ideas/Screenshot%202026-06-11%20at%202.28.50 AM.png)
+- dressing, sidetable, study table all in one [inspiration](./ideas/Screenshot%202026-06-09%20at%202.37.13 AM.png)
+- for room tv units, symmetrical gaps around the arch looks better like [this](./ideas/tv_unit/Screenshot%202026-06-11%20at%202.19.37 AM.png)
+- room tv unit [inspirations](./ideas/tv_unit/)
+- can we do something for the concrete beams [here](./jyotika_render/Screenshot%202026-06-08%20at%202.07.38 AM.png). maybe make them even
+- Can we make the whole pipe side of the balcony a wardrobe using water and sun proof materials and racks are also net/grill of metal or wood so water does not stay. Or make racks slightly slanted so water falls off
+- Remove hanging plants from the balcony. too much maintenance instead put a sun/water resistant rolling curtain to cover the whole balcony till the glass. wind resistant
+- Make the glass frosted
+- No hanging plants, No small plants like in render. couple of bigger pots like [this](./ideas/Screenshot%202026-06-11%20at%203.28.47 AM.png) will do
+- balcony lighting [inspirations](./ideas/balcony%20lights/)
+- balcony pipe cover [ideas](./ideas/balcony_pipe_cover/)
+  - the bottom wardrobe can be a little longer so it acts as a conter
+  - It can be used for storage, covers the pipe and also used as a couter to put stuff plus can put decorative or plants
+
+- Bathroom
+  - Can the bathroom have partition ?
+  - Can the bathroom have step down in shower area
+  - Rack beside sink
+  - Rack in shower side
+  - hand towel hanger
+  - One rack above toilet-seat with three layers like [this](./ideas/Screenshot%202026-06-12%20at%202.22.34 PM.png)
+    - maybe with lights
+    - built with stone material
+    - rails to the front
+    - even with this we need one rack in shower side
+    - This 3/4 layers can continue acroos the mirror to the corner, may look good
+  - Storage 
+  - Remove the big mirror, have simpler more common sink mirror

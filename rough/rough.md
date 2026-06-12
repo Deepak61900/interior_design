@@ -29,6 +29,16 @@
 - plumbing design, nal, toti etc.
 - bathroom sink design
 - hand towel in utility area
+- Everything covered
+- Wood looks good in pinterest, might not look good in real life. Trust Jyotika
+- Hidden compartment
+- CCTV camera
+- inner layout of cupboards
+- sink in hall for handwash
+- seat for dressing
+- AC placement and installation
+- Light colored kitchen as there is not much natural light
+- mkbhd bed
 
 ### TV Unit
 
