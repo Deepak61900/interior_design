@@ -35,7 +35,6 @@
   - It can be used for storage, covers the pipe and also used as a couter to put stuff plus can put decorative or plants
 
 - Bathroom
-  - Can the bathroom have partition ?
   - Can the bathroom have step down in shower area
   - Rack beside sink
   - Rack in shower side
@@ -48,3 +47,8 @@
     - This 3/4 layers can continue acroos the mirror to the corner, may look good
   - Storage 
   - Remove the big mirror, have simpler more common sink mirror
+  - why can't we do the partition like [this](./ideas/bathroom_split/)
+
+- good balcony design, plants, wooden floor like [this](./ideas/Screenshot%202026-06-16%20at%2011.34.45 PM.png)
+- seat for dressing price discuss
+- a good bed [design](./ideas/Screenshot%202026-06-17%20at%203.34.09 AM.png)

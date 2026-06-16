@@ -1,0 +1,25 @@
+## Notes
+
+- This looks really good, can we have this somewhere in the house. [Inspiration](./ideas/crockery)
+- Overall theme: Scandanavian
+  - Just search anything scandanavian on pinterest. for example kitchen scandanavian or breakfast counter scandanavian
+- 3 cctv cameras
+  - corridor, tv, kitchen
+- Secret compartment somewhere
+- cove and main light brigtness adjustment
+- lighting temperatures
+- AC Installation
+- Computer table
+- app control switches
+  - [options](./ideas/smart_switches/)
+- wifi
+  - box like [this](./ideas/Screenshot%202026-06-17%20at%203.16.51 AM.png) hung on wall can be an option
+  - hidden inside breakfast counter can be an option
+- Lan connection in each room and hall
+- kitchen drawer handle design options, discuss with jyotika
+- all the cupboards should have lights
+- kitchen sink design options discuss
+- plumbing design, nal, toti etc design options discuss
+- bathroom sink design discuss
+- Can we have a Hidden compartment somewhere
+- AC placement and installation discuss

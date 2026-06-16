@@ -26,3 +26,5 @@
 - Integrated gas stove [inspiration](./ideas/Screenshot%202026-06-04%20at%202.59.51 AM.png)
 - Where is the space to put cylinder, can it be kept beneth the utility area sink ? [here](/utility_area/jyotika_render/Screenshot%202026-06-04%20at%203.04.57 AM.png)
 - Curved edge looks really goo and is also practical (reduces danger) like [this](./ideas/overall_ideas/Screenshot%202026-06-11%20at%203.47.43 AM.png)
+- Good open rack, open baskets, cup hanger [inspiration](./ideas/Screenshot%202026-06-16%20at%208.57.11 PM.png)
+- Light colored kitchen as there is not much natural light
