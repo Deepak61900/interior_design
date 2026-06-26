@@ -23,3 +23,7 @@
 - bathroom sink design discuss
 - Can we have a Hidden compartment somewhere
 - AC placement and installation discuss
+- Make sure flush wardrobes and drawers
+  - in corridor, TV-unit and all others
+- Make sure transparent glass in tv-unit
+- get top-back strip light design render and see which looks better
