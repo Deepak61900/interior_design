@@ -28,3 +28,4 @@
 - Curved edge looks really goo and is also practical (reduces danger) like [this](./ideas/overall_ideas/Screenshot%202026-06-11%20at%203.47.43 AM.png)
 - Good open rack, open baskets, cup hanger [inspiration](./ideas/Screenshot%202026-06-16%20at%208.57.11 PM.png)
 - Light colored kitchen as there is not much natural light
+- light in ceiling [inspiration](./ideas/Screenshot%202026-07-02%20at%2012.27.11 AM.png)
