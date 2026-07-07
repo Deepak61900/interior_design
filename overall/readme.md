@@ -27,3 +27,5 @@
   - in corridor, TV-unit and all others
 - Make sure transparent glass in tv-unit
 - get top-back strip light design render and see which looks better
+- Locker and hidden compartment
+- Everything flush [sample](https://in.pinterest.com/pin/1055599908879122/), [sample](https://in.pinterest.com/pin/824369906823064690/)

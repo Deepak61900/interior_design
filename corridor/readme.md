@@ -18,3 +18,6 @@
 - Didn't like the design of the show rack seats
 - Can we add a mirror like this [inspiration](ideas/Inspiration%20Home%20Decor.jpeg) or like [this](ideas/Screenshot%202026-06-03%20at%2012.09.02 AM.png)
 - Wooden floor
+- Flush wardrobe
+- wall rack above for suitecase storage, maybe metal, maybe covered racks
+- GTPT rack bigger, cost difference of buy vs made 

@@ -52,3 +52,15 @@
 - good balcony design, plants, wooden floor like [this](./ideas/Screenshot%202026-06-16%20at%2011.34.45 PM.png)
 - seat for dressing price discuss
 - a good bed [design](./ideas/Screenshot%202026-06-17%20at%203.34.09 AM.png)
+- Make the wardrobes flush, smaller bottom longer tops
+- Wardrobe option discussions
+  - Only back with bed pushed front like [this](./ideas/bed_wardrobe/Screenshot%202026-06-09%20at%202.45.20 AM.png)
+  - Only side
+  - Side + back like [this](./ideas/bed_wardrobe/Screenshot%202026-06-09%20at%202.54.19 AM.png)
+    - This is inefficient doing in corner gives us very little storage for the cost of bhara bhara.
+  - Only back with space all around the head like [this](./ideas/bed_wardrobe/Screenshot%202026-06-09%20at%202.29.45 AM.png) or [this](./ideas/bed_wardrobe/Screenshot%202026-06-09%20at%202.46.14 AM.png) plus left side wardrobe of tv unit, can copy tv unit from hall.
+    - The dressing can be integrated in the left side back wardrobe, the bathroom side.
+      - the dressing space will be bottom part of left wardrobe
+    - This design is very symmetrical. 'Only side' will move the bed to the left and take space beside the bed making it feel much less spacious against the head side one.
+      - The TV will also be in center so it will be straight to the bed.
+- Lights beneth bed like [this](./ideas/Screenshot%202026-07-06%20at%201.10.24 AM.png) discuss
