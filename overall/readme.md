@@ -29,3 +29,13 @@
 - get top-back strip light design render and see which looks better
 - Locker and hidden compartment
 - Everything flush [sample](https://in.pinterest.com/pin/1055599908879122/), [sample](https://in.pinterest.com/pin/824369906823064690/)
+- wireless chargers
+- doorbell
+- hidden chamber
+- touchless soap dispenser
+- soft close drawers
+- Standing table instead of integrated
+- All curtains
+- All doormats
+- Fluted drawer shutters like [this](./ideas/Screenshot%202026-07-07%20at%209.27.05 PM.png)
+- Profile lights can be reflected instead of like we have in kitchen or tv_unit. this is direct

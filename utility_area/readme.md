@@ -9,3 +9,5 @@
 - Can have more racks above head level to the other side of the wall for more storage space
 - cloth drying hanger utility area like [this](../room1/ideas/Screenshot%202026-06-11%20at%203.19.35 AM.png). This can be pulled up or down
 - hand towel in utility area
+- wall rack above for suitecase storage, maybe metal, maybe covered racks
+- GTPT rack bigger, cost difference of buy vs made 

@@ -1,23 +1,34 @@
 ## Notes
 
-- Outside corridor cover and big door (door can be full width)
-- Name plate should be at outside corridor door
-- Full closed big door for corridor
-  - Discuss the design with Kushal
-- Plants
-- Table lamp
-- Curtains for window
-- Cove light + general light [Inspiration](ideas/Gemini_Generated_Image_pnbj1epnbj1epnbj.png)
-- Ceiling design + fall celing
-- L shaped sitting and shoe rack [inspiration](ideas/Gemini_Generated_Image_5fmqd95fmqd95fmq.png)
-- Big doormat so anyone coming whill shed shoe dust in it.
-  - [inspiration](ideas/71Qz5P47gSL._SL1184_.jpg)
-    - The image shows near the main door but it can be near the outer door
-- Walls are looking too blank, can we do something on it
-- Maintenance of cushion
-- Didn't like the design of the show rack seats
-- Can we add a mirror like this [inspiration](ideas/Inspiration%20Home%20Decor.jpeg) or like [this](ideas/Screenshot%202026-06-03%20at%2012.09.02 AM.png)
-- Wooden floor
-- Flush wardrobe
-- wall rack above for suitecase storage, maybe metal, maybe covered racks
-- GTPT rack bigger, cost difference of buy vs made 
+- [ ] Outside corridor cover and big door (door can be full width)
+  - [ ] Need to show kushal before starting
+- [ ] Name plate should be at outside corridor door
+- [ ] Decorations
+  - [ ] Plants
+  - [ ] paintings
+  - [ ] walls
+    - [ ] Walls are looking too blank, can we do something on it
+  - [ ] lights
+    - [ ] Table lamp
+    - [ ] Cove light + general light [Inspiration](ideas/Gemini_Generated_Image_pnbj1epnbj1epnbj.png)
+- [ ] Curtains for window
+- [x] Ceiling design + fall celing
+- [ ] L shaped sitting and shoe rack [inspiration](ideas/Gemini_Generated_Image_5fmqd95fmqd95fmq.png)
+  - [ ] Discuss materials with jyotika
+    - [ ] Maintenance of cushion
+- [ ] Outer cooridor door doormat: Big doormat so anyone coming will shed shoe dust in it.
+  - [ ] [inspiration](ideas/71Qz5P47gSL._SL1184_.jpg)
+    - [ ] The image shows near the main door but it can be near the outer door
+  - [ ] ordering from amazon
+- [ ] Inner corridor door doormat
+  - [ ] Order from amazon
+- [x] Can we add a mirror like this [inspiration](ideas/Inspiration%20Home%20Decor.jpeg) or like [this](ideas/Screenshot%202026-06-03%20at%2012.09.02 AM.png)
+- [x] Rafter color
+- [ ] Mirror shape full top to bottom rectangle vs current rounded top bottom short
+- [ ] wardrobe colors
+- [x] Wooden floor
+  - [x] decided not to
+- [ ] Flush wardrobes
+- [ ] fluted drawers
+- [ ] Storage space in the ceiling
+- [ ] update render with all the changes
