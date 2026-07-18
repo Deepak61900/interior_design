@@ -39,3 +39,12 @@
 - All doormats
 - Fluted drawer shutters like [this](./ideas/Screenshot%202026-07-07%20at%209.27.05 PM.png)
 - Profile lights can be reflected instead of like we have in kitchen or tv_unit. this is direct
+- Fans for all rooms
+- ACs for all rooms
+- when to buy everything
+- Should we remove false ceiling from the rooms
+- Can we use a different kind of false ceiling in the rooms
+- power backup
+- Hand towels everywhere
+- all drawers and shutter handles. [this](./ideas/Screenshot%202026-07-19%20at%203.17.41 AM.png) looks cleanest, should do this
+- For longer wardrobes can be have middle slots where we can place wooden bases to make them smaller. these bases can also have locks

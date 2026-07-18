@@ -20,3 +20,5 @@
   - [ ] walls
   - [ ] lights
 - [ ] Curtains for window
+- [ ] Rafter color
+- [ ] Swing ?

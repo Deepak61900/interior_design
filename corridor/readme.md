@@ -32,3 +32,4 @@
 - [ ] fluted drawers
 - [ ] Storage space in the ceiling
 - [ ] update render with all the changes
+- [ ] Doorbell / Camera bell

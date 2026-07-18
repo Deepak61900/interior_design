@@ -1,18 +1,24 @@
 ## Notes
 
-- Keep wall beside pooja unit empty, It is a good space for projector
-- Key hanger can go to the other side wall of the door or can be simply part of the TV unit
-  - [Inspiration](ideas/523baafa517f128a0506b239ee599559.jpg)
-- Sofa price, will we get corridor cushions matching to the sofa
-- Mummy wants false ceiling. please add 
-- Wall behind sofa can have some design
-  - [inspirations](ideas/wall_ideas)
-- Hanging light I don't like behind the sofa change it to wall mounted
+- [x] Keep wall beside pooja unit empty, It is a good space for projector
+- [ ] Key hanger
+  - [ ] Key hanger can go to the other side wall of the door or can be simply part of the TV unit like [this](ideas/523baafa517f128a0506b239ee599559.jpg)
+    - buy key hanger
+- [ ] Sofa price, will we get corridor cushions matching to the sofa
+- [x] Mummy wants false ceiling. please add 
+- [ ] Wall behind sofa can have some design like [this](ideas/wall_ideas)
+  - [ ] finalize wallpaper
+  - [ ] It can also be empty, no need for extra thing.
+- [ ] lighting
+  - [x] Hanging light I don't like behind the sofa change it to wall mounted
   - [inspirations](ideas/light_ideas/)
-  - maybe both side of the window we can add one light. or just one
-- Overall decorative lighting in the house can be better. Need to think where can we add some decorative lights.
-  - [inspirations](ideas/light_ideas/)
+  - [ ] maybe both side of the window we can add one light. or just one
 - Don't like the coffe table, add something like below for render
   - [samples](ideas/coffee_table_ideas/)
-- Curtains should be blackout curtains (for production)
-- Both back wall of tv unit and back of sofa wall can have same/similar wallpaper
+  - [ ] get coffee table built with same material as tv unit
+    - [ ] Finalize coffee table design
+- [ ] Curtains should be blackout curtains (for production)
+- [x] Both back wall of tv unit and back of sofa wall can have same/similar wallpaper
+- [ ] We can remove the wallpaper, plane wall also looks good, see version0 [render](./jyotika_render/Screenshot%202026-06-03%20at%2012.27.22 AM.png). Looks like doing for the sake of doing
+- [ ] Can we have a swing somewhere ?
+- [ ] Plants

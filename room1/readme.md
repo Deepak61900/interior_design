@@ -1,66 +1,46 @@
 ## Notes
 
-- This is the room with both balcony and attached bathroom
-- TV is going to be 55 or 65 inches, so design for both
-- False ceiling options for the room
-- What size beds are in the render ?
-- wardrobe options
-  - Option1: Can the cupboards go beside the balcony slider ?
-    - [inspirations](./ideas/wardrobe/)
-    - One of the cupboards can have mirror and dressing integrated
-    - can shift dressing to the wall beside bathroom door
-      - can have a bedside table integrated to the dressing
-    - Along with around balcony slider, additionally one wall too
-  - Option2: Integrated with bed plus one side (beside washroom door)
-    - [inspirations](./ideas/bed_wardrobe/)
-    - bed can be a at a distance from the wall maybe [cushion distance](./ideas/bed_wardrobe/Screenshot%202026-06-09%20at%202.47.51 AM.png) or [full wardrobe](./ideas/bed_wardrobe/Screenshot%202026-06-09%20at%202.27.29 AM.png) distance.
-    - The loft above head may [not be present](./ideas/bed_wardrobe/Screenshot%202026-06-09%20at%202.29.02 AM.png) or of [half depth](./ideas/bed_wardrobe/Screenshot%202026-06-09%20at%202.53.39 AM.png) maybe matching with cushion
-    - If possible some space to be given beside the bed like [this](./ideas/bed_wardrobe/Screenshot%202026-06-09%20at%202.51.28 AM.png) or like [this](./ideas/bed_wardrobe/Screenshot%202026-06-09%20at%202.33.10 AM.png) so the person does not have wardrobe to his face
-- what will be the drawer distribution ? [this](./ideas/Screenshot%202026-06-09%20at%201.56.24 AM.png)
-- [Full height](./ideas/wardrobe/Screenshot%202026-06-09%20at%202.05.08 AM.png) looks better than separate loft
-- lights inside wardrobe
-- beds should have storage
-- beds should have cushions at the back like [this](./ideas/Screenshot%202026-06-11%20at%202.28.50 AM.png)
-- dressing, sidetable, study table all in one [inspiration](./ideas/Screenshot%202026-06-09%20at%202.37.13 AM.png)
-- for room tv units, symmetrical gaps around the arch looks better like [this](./ideas/tv_unit/Screenshot%202026-06-11%20at%202.19.37 AM.png)
-- room tv unit [inspirations](./ideas/tv_unit/)
-- can we do something for the concrete beams [here](./jyotika_render/Screenshot%202026-06-08%20at%202.07.38 AM.png). maybe make them even
-- Can we make the whole pipe side of the balcony a wardrobe using water and sun proof materials and racks are also net/grill of metal or wood so water does not stay. Or make racks slightly slanted so water falls off
-- Remove hanging plants from the balcony. too much maintenance instead put a sun/water resistant rolling curtain to cover the whole balcony till the glass. wind resistant
-- Make the glass frosted
-- No hanging plants, No small plants like in render. couple of bigger pots like [this](./ideas/Screenshot%202026-06-11%20at%203.28.47 AM.png) will do
-- balcony lighting [inspirations](./ideas/balcony%20lights/)
-- balcony pipe cover [ideas](./ideas/balcony_pipe_cover/)
-  - the bottom wardrobe can be a little longer so it acts as a conter
-  - It can be used for storage, covers the pipe and also used as a couter to put stuff plus can put decorative or plants
-
-- Bathroom
-  - Can the bathroom have step down in shower area
-  - Rack beside sink
-  - Rack in shower side
-  - hand towel hanger
-  - One rack above toilet-seat with three layers like [this](./ideas/Screenshot%202026-06-12%20at%202.22.34 PM.png)
-    - maybe with lights
-    - built with stone material
-    - rails to the front
-    - even with this we need one rack in shower side
-    - This 3/4 layers can continue acroos the mirror to the corner, may look good
-  - Storage 
-  - Remove the big mirror, have simpler more common sink mirror
-  - why can't we do the partition like [this](./ideas/bathroom_split/)
-
-- good balcony design, plants, wooden floor like [this](./ideas/Screenshot%202026-06-16%20at%2011.34.45 PM.png)
-- seat for dressing price discuss
-- a good bed [design](./ideas/Screenshot%202026-06-17%20at%203.34.09 AM.png)
-- Make the wardrobes flush, smaller bottom longer tops
-- Wardrobe option discussions
-  - Only back with bed pushed front like [this](./ideas/bed_wardrobe/Screenshot%202026-06-09%20at%202.45.20 AM.png)
-  - Only side
-  - Side + back like [this](./ideas/bed_wardrobe/Screenshot%202026-06-09%20at%202.54.19 AM.png)
-    - This is inefficient doing in corner gives us very little storage for the cost of bhara bhara.
-  - Only back with space all around the head like [this](./ideas/bed_wardrobe/Screenshot%202026-06-09%20at%202.29.45 AM.png) or [this](./ideas/bed_wardrobe/Screenshot%202026-06-09%20at%202.46.14 AM.png) plus left side wardrobe of tv unit, can copy tv unit from hall.
-    - The dressing can be integrated in the left side back wardrobe, the bathroom side.
-      - the dressing space will be bottom part of left wardrobe
-    - This design is very symmetrical. 'Only side' will move the bed to the left and take space beside the bed making it feel much less spacious against the head side one.
-      - The TV will also be in center so it will be straight to the bed.
-- Lights beneth bed like [this](./ideas/Screenshot%202026-07-06%20at%201.10.24 AM.png) discuss
+- [x] This is the room with both balcony and attached bathroom
+- [x] TV is going to be 55 or 65 inches, so design for both
+- [ ] False ceiling options for the room, discuss with jyotika to have or not
+- [x] What size beds are in the render ? 
+- [x] wardrobe options
+  - [x] Option1: Can the cupboards go beside the balcony slider ?
+    - [x] [inspirations](./ideas/wardrobe/)
+    - [x] One of the cupboards can have mirror and dressing integrated
+    - [x] can shift dressing to the wall beside bathroom door
+      - [x] can have a bedside table integrated to the dressing
+    - [x] Along with around balcony slider, additionally one wall too
+  - [x] Option2: Integrated with bed plus one side (beside washroom door)
+    - [x] [inspirations](./ideas/bed_wardrobe/)
+    - [x] bed can be a at a distance from the wall maybe [cushion distance](./ideas/bed_wardrobe/Screenshot%202026-06-09%20at%202.47.51 AM.png) or [full wardrobe](./ideas/bed_wardrobe/Screenshot%202026-06-09%20at%202.27.29 AM.png) distance.
+    - [x] The loft above head may [not be present](./ideas/bed_wardrobe/Screenshot%202026-06-09%20at%202.29.02 AM.png) or of [half depth](./ideas/bed_wardrobe/Screenshot%202026-06-09%20at%202.53.39 AM.png) maybe matching with cushion
+    - [x] If possible some space to be given beside the bed like [this](./ideas/bed_wardrobe/Screenshot%202026-06-09%20at%202.51.28 AM.png) or like [this](./ideas/bed_wardrobe/Screenshot%202026-06-09%20at%202.33.10 AM.png) so the person does not have wardrobe to his face
+- [ ] what will be the drawer distribution ? [this](./ideas/Screenshot%202026-06-09%20at%201.56.24 AM.png)
+- [ ] [Full height](./ideas/wardrobe/Screenshot%202026-06-09%20at%202.05.08 AM.png) looks better than separate loft
+  - [ ] Even the drawers below can look better with single shutter
+- [ ] lights inside wardrobe
+- [ ] beds should have storage
+- [x] beds should have cushions at the back like [this](./ideas/Screenshot%202026-06-11%20at%202.28.50 AM.png)
+- [ ] explore different bed coushin designs
+- [ ] side table height wrt bed and matress height 
+- [x] dressing, sidetable, study table all in one [inspiration](./ideas/Screenshot%202026-06-09%20at%202.37.13 AM.png)
+- [ ] Rotating mirror like [this](./ideas/Screenshot%202026-07-19%20at%203.19.42 AM.png)
+- [x] for room tv units, symmetrical gaps around the arch looks better like [this](./ideas/tv_unit/Screenshot%202026-06-11%20at%202.19.37 AM.png)
+- [x] room tv unit [inspirations](./ideas/tv_unit/)
+- [x] can we do something for the concrete beams [here](./jyotika_render/Screenshot%202026-06-08%20at%202.07.38 AM.png). maybe make them even
+- [x] seat for dressing price discuss. No seat needed
+- [ ] Move mirror beside the bathroom door and that side bottom wardrobe will store dressing
+- [ ] a good bed [design](./ideas/Screenshot%202026-06-17%20at%203.34.09 AM.png). Bed design finalize
+- [x] Make the wardrobes flush, smaller bottom longer tops
+- [x] Wardrobe option discussions
+  - [x] Only back with bed pushed front like [this](./ideas/bed_wardrobe/Screenshot%202026-06-09%20at%202.45.20 AM.png)
+  - [x] Only side
+  - [x] Side + back like [this](./ideas/bed_wardrobe/Screenshot%202026-06-09%20at%202.54.19 AM.png)
+    - [x] This is inefficient doing in corner gives us very little storage for the cost of bhara bhara.
+  - [x] Only back with space all around the head like [this](./ideas/bed_wardrobe/Screenshot%202026-06-09%20at%202.29.45 AM.png) or [this](./ideas/bed_wardrobe/Screenshot%202026-06-09%20at%202.46.14 AM.png) plus left side wardrobe of tv unit, can copy tv unit from hall.
+    - [x] The dressing can be integrated in the left side back wardrobe, the bathroom side.
+      - [x] the dressing space will be bottom part of left wardrobe
+    - [x] This design is very symmetrical. 'Only side' will move the bed to the left and take space beside the bed making it feel much less spacious against the head side one.
+      - [x] The TV will also be in center so it will be straight to the bed.
+- [ ] Lights beneth bed like [this](./ideas/Screenshot%202026-07-06%20at%201.10.24 AM.png) discuss
