@@ -48,3 +48,4 @@
 - Hand towels everywhere
 - all drawers and shutter handles. [this](./ideas/Screenshot%202026-07-19%20at%203.17.41 AM.png) looks cleanest, should do this
 - For longer wardrobes can be have middle slots where we can place wooden bases to make them smaller. these bases can also have locks
+- good false ceiling [design](https://in.pinterest.com/pin/567312884328892836/)

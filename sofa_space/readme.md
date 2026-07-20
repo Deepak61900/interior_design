@@ -6,6 +6,7 @@
     - buy key hanger
 - [ ] Sofa price, will we get corridor cushions matching to the sofa
 - [x] Mummy wants false ceiling. please add 
+- [ ] Buy sofa
 - [ ] Wall behind sofa can have some design like [this](ideas/wall_ideas)
   - [ ] finalize wallpaper
   - [ ] It can also be empty, no need for extra thing.
@@ -22,3 +23,4 @@
 - [ ] We can remove the wallpaper, plane wall also looks good, see version0 [render](./jyotika_render/Screenshot%202026-06-03%20at%2012.27.22 AM.png). Looks like doing for the sake of doing
 - [ ] Can we have a swing somewhere ?
 - [ ] Plants
+  - [ ] [idea](./ideas/tree/)

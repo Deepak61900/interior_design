@@ -44,3 +44,4 @@
     - [x] This design is very symmetrical. 'Only side' will move the bed to the left and take space beside the bed making it feel much less spacious against the head side one.
       - [x] The TV will also be in center so it will be straight to the bed.
 - [ ] Lights beneth bed like [this](./ideas/Screenshot%202026-07-06%20at%201.10.24 AM.png) discuss
+- [ ] edge false ceiling
