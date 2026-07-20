@@ -45,3 +45,4 @@
       - [x] The TV will also be in center so it will be straight to the bed.
 - [ ] Lights beneth bed like [this](./ideas/Screenshot%202026-07-06%20at%201.10.24 AM.png) discuss
 - [ ] edge false ceiling
+- [ ] Move mirror to wall beside slider nead tv unit. so it is not in front of the bed
