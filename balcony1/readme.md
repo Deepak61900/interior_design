@@ -9,4 +9,4 @@
   - [ ] the bottom wardrobe can be a little longer so it acts as a conter
   - [ ] It can be used for storage, covers the pipe and also used as a couter to put stuff plus can put decorative or plants
 - [ ] good balcony design, plants, wooden floor like [this](./ideas/Screenshot%202026-06-16%20at%2011.34.45 PM.png)
-- [ ] cloth drying hanger utility area like [this](../room1/ideas/Screenshot%202026-06-11%20at%203.19.35 AM.png). This can be pulled up or down
+- [ ] cloth drying hanger utility area like [this](./ideas/Screenshot%202026-06-11%20at%203.19.35 AM.png). This can be pulled up or down
