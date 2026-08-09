@@ -27,3 +27,6 @@
       - [x] the dressing space will be bottom part of left wardrobe
     - [x] This design is very symmetrical. 'Only side' will move the bed to the left and take space beside the bed making it feel much less spacious against the head side one.
       - [x] The TV will also be in center so it will be straight to the bed.
+- [x] What size beds are in the render ?
+  - [x] Qween 6x5
+- [x] [Full height](./ideas/wardrobe/Screenshot%202026-06-09%20at%202.05.08 AM.png) looks better than separate loft

@@ -1,10 +1,7 @@
 ## Notes
 
 - [ ] False ceiling options for the room, discuss with jyotika to have or not
-- [ ] What size beds are in the render ? 
 - [ ] what will be the drawer distribution ? [this](./ideas/Screenshot%202026-06-09%20at%201.56.24 AM.png)
-- [ ] [Full height](./ideas/wardrobe/Screenshot%202026-06-09%20at%202.05.08 AM.png) looks better than separate loft
-  - [ ] Even the drawers below can look better with single shutter
 - [ ] lights inside wardrobe
 - [ ] beds should have storage
 - [x] beds should have cushions at the back like [this](./ideas/Screenshot%202026-06-11%20at%202.28.50 AM.png)
@@ -18,3 +15,4 @@
   - [ ] wouldn't it depend on wall colors.
 - [ ] Wall paint colors, wallpapers, false wall discuss with Jyotika
 - [ ] Lights beneth bed like [this](./ideas/Screenshot%202026-07-06%20at%201.10.24 AM.png) discuss
+- [ ] drawers below can look better with single shutter
