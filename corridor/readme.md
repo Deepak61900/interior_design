@@ -1,33 +1,17 @@
 ## Notes
 
-- [ ] Outside corridor cover and big door (door can be full width)
-  - [ ] Need to show kushal before starting
 - [ ] Name plate should be at outside corridor door
-- [ ] Decorations
-  - [ ] Plants
-  - [ ] paintings
-  - [ ] walls
-    - [ ] Walls are looking too blank, can we do something on it
-  - [ ] lights
-    - [ ] Table lamp
-    - [ ] Cove light + general light [Inspiration](ideas/Gemini_Generated_Image_pnbj1epnbj1epnbj.png)
 - [ ] Curtains for window
-- [x] Ceiling design + fall celing
-- [ ] L shaped sitting and shoe rack [inspiration](ideas/Gemini_Generated_Image_5fmqd95fmqd95fmq.png)
-  - [ ] Discuss materials with jyotika
-    - [ ] Maintenance of cushion
-- [ ] Outer cooridor door doormat: Big doormat so anyone coming will shed shoe dust in it.
-  - [ ] [inspiration](ideas/71Qz5P47gSL._SL1184_.jpg)
-    - [ ] The image shows near the main door but it can be near the outer door
-  - [ ] ordering from amazon
-- [ ] Inner corridor door doormat
-  - [ ] Order from amazon
-- [x] Can we add a mirror like this [inspiration](ideas/Inspiration%20Home%20Decor.jpeg) or like [this](ideas/Screenshot%202026-06-03%20at%2012.09.02 AM.png)
-- [x] Rafter color
-- [ ] Mirror shape full top to bottom rectangle vs current rounded top bottom short
-- [ ] wardrobe colors
-- [x] Wooden floor
-  - [x] decided not to
+  - [ ] color options [discuss](https://in.pinterest.com/pin/820218150932772978/) with jyotika. [option](https://in.pinterest.com/pin/915215955543072131/). Decide for the whole house
+  - [ ] holder discuss with jyotika [option](https://in.pinterest.com/pin/1111474383007921594/) [option](https://in.pinterest.com/pin/960040845570629971/) [option](https://in.pinterest.com/pin/557813103866591932/)
+- [x] L shaped cushion dwj
+  - [x] material
+  - [x] color
+  - [x] maintenance
+- [ ] Normal tiles floor with two rugs one round and one [long](ideas/71Qz5P47gSL._SL1184_.jpg) near main door
+- [ ] Rafter and wardrobe color dwj
+- [ ] Mirror shape full top to bottom rectangle vs current rounded top bottom short. show render and practicality
+
 - [ ] Flush wardrobes
 - [ ] fluted drawers
 - [ ] Storage space in the ceiling

@@ -1,0 +1,27 @@
+## Notes
+
+- [x] Outside corridor cover and big door (door can be full width)
+  - [x] Need to show kushal before starting
+- [x] Decorations
+  - [x] Plants
+    - [x] Just one medium size plant as in [render](renders/version2/HOD_HOD_2026_223_MR_DEEPAK_3D-Presentation_Rev2_2026-08-08.pdf) is good
+  - [x] paintings
+    - [x] will decide later
+  - [x] walls
+    - [x] Walls are looking too blank, can we do something on it
+      - [x] There are enough things like rafter, mirror, racks. more might be too much
+  - [x] lights
+    - [x] Table lamp
+    - [x] Cove light + general light [Inspiration](ideas/Gemini_Generated_Image_pnbj1epnbj1epnbj.png)
+    - [x] Final: false ceiling with focus lights are good coherent. anything more might be too much
+- [x] Ceiling design + fall celing
+- [x] L shaped sitting and shoe rack [inspiration](ideas/Gemini_Generated_Image_5fmqd95fmqd95fmq.png)
+- [x] Outer cooridor door doormat: Big doormat so anyone coming will shed shoe dust in it.
+  - [x] [inspiration](ideas/71Qz5P47gSL._SL1184_.jpg), [inspiration](https://www.amazon.in/Fast-Deal-Shaggy-Runner-Carpet/dp/B0H6VDFJ14/ref=sr_1_60?crid=2T10XIIROGP7&dib=eyJ2IjoiMSJ9.xj0AmlmIa86r7xwh_fri30uBCo9fUlj3naZM8n0QoJQ-SNlDjr5yynJY0rDoAQx8obUrngBMmDCIW_6YQAiRO6O_3Yen8bDM25jSdBmXfv-UOmfgw7M4fyvbMr1h3jJ9eavv8tAbUIbGjxHTq8Vs6OEMXe6Zy6Okl5hEDzJNFSiTfvIj_JoW5hoQe2kDHhM7QfmUQgZUqpLcJi6BJQbETyC511w1oVFciE7Lm68RkAPnV2PACxbEHJsUeKwdStniVstq3XwceeaQ3wDXepgfRqg1C0yjQpyJa3MopnCy_38.WUhOl0wCjyz_ps_5MMa-DLPy78XYDdeoQdAHbcYWlnI&dib_tag=se&keywords=floor%2Bmat&qid=1786248503&sprefix=floor%2Bm%2Caps%2C352&sr=8-60&th=1)
+    - [x] The image shows near the main door but it can be near the outer door
+  - [x] ordering from amazon
+  - [ ] Inner corridor door doormat
+    - [ ] Order from amazon
+- [x] Can we add a mirror like this [inspiration](ideas/Inspiration%20Home%20Decor.jpeg) or like [this](ideas/Screenshot%202026-06-03%20at%2012.09.02 AM.png)
+- [x] Wooden floor
+  - [x] decided not to

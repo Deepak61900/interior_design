@@ -24,3 +24,5 @@
 - [ ] Can we have a swing somewhere ?
 - [ ] Plants
   - [ ] [idea](./ideas/tree/)
+- [ ] Can try [this](https://in.pinterest.com/pin/1196337404771772/) later
+- [ ] Final wallpaper [design](https://in.pinterest.com/pin/1109081845750340757/)
