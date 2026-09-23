@@ -1,10 +1,14 @@
-## Next steps
+# Notes
 
-- Room1 Discuss
+- Patta issue
+- https://in.pinterest.com/pin/824369906823064690/
 
-- Give mirror shape for room1
-- room 2 wallpaper select
+## Documentation system
 
-https://in.pinterest.com/pin/824369906823064690/
+- Every note falls in following category
+  - undecided
+  - undecided postponed
+  - decided
+  - verified
 
-https://in.pinterest.com/pin/286049013826837287/
+- Sell items

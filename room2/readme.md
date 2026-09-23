@@ -1,29 +1,39 @@
-## Notes
+## Undecided
 
-- [x] Convertible sofa instead of bed like [this](./ideas/Screenshot%202026-06-17%20at%201.57.04 AM.png), but space for bed
-  - [x] will keep the deewan here for now.
-    - [ ] repair deewan
-- [ ] will keep the current coffee table here for now
-- [ ] mirror beside the door. want to keep the front wall empty for projector
-- [ ] vanity stuff in the right most bottom drawers
-- [ ] mandir goes to the very left as we don't have fixed table anymore
-- [ ] cloth drying hanger utility area like [this](../room1/ideas/Screenshot%202026-06-11%20at%203.19.35 AM.png). This can be pulled up or down
-- [ ] Real marble base in Pooja unit
-- [x] take the current coffee table we have to room2
-- [x] Put deewan instead of sofa here for now
-- [ ] Study table
-  - [ ] something like [this](./ideas/Screenshot%202026-07-20%20at%2011.13.00 PM.png) looks good but I want flexibility, maybe a big center table where 4 people can work together. maybe a standing table, motorized table etc so will keep it for later will take the table we have right now.
-- [ ] No false ceiling
-- [ ] Mandir
-  - [ ] [base](./ideas/WhatsApp%20Image%202026-07-20%20at%2011.47.53.jpeg)
-    - [ ] Actual stone, wood might burn
-    - [ ] main base shoule be max 12 inches from ground
-    - [ ] need steps to keep multiple small deities. two step is good. both god step should be small depth as we need base broad to keep stuff. 4inch, 4inch, 8inch
-    - [ ] straight steps with profile lights in the steps. U shaped steps wastes space
-  - [ ] [back](./ideas/WhatsApp%20Image%202026-07-20%20at%2011.47.53.jpeg), [inspiration](./ideas/Screenshot%202026-07-20%20at%2011.45.56 AM.png)
-  - [ ] front cover
-    - [ ] Curtain will not look good, very different from the other cupboards
-    - [ ] Doors that go in will take up space in the left and right. also rails will show killing the look
-    - [ ] simple 2 door left right with pattern for ventilation and mandir effect. Out of [these](./ideas/mandir_front_door/) I like [this](./ideas/mandir_front_door/Screenshot%202026-07-20%20at%2012.14.37 PM.png) the best. the bells are functional and will ring on opening the door.
-  - [ ] two bells hanging beside Om
-  - [ ] The front door will fully match with all other wardrobes
+- Real marble base in Pooja unit
+
+## decided unverified
+
+- repair deewan, make it match the room
+- buy cloth drying hanger
+- Buy bells for pooja door
+- Buy bells for hanging beside Om
+
+## verified
+
+
+## decided forget
+
+- Convertible sofa instead of bed like [this](./ideas/Screenshot%202026-06-17%20at%201.57.04 AM.png), but space for bed
+  - will keep the deewan here for now.
+- will keep the current coffee table here for now
+- mirror beside the door. want to keep the front wall empty for projector
+- vanity stuff in the right most bottom drawers
+- mandir goes to the very left as we don't have fixed table anymore
+- cloth drying hanger utility area like [this](../room1/ideas/Screenshot%202026-06-11%20at%203.19.35 AM.png). This can be pulled up or down
+- Study table
+  - something like [this](./ideas/Screenshot%202026-07-20%20at%2011.13.00 PM.png) looks good but I want flexibility, maybe a big center table where 4 people can work together. maybe a standing table, motorized table etc so will keep it for later will take the table we have right now.
+- No false ceiling
+- Mandir
+  - [base](./ideas/WhatsApp%20Image%202026-07-20%20at%2011.47.53.jpeg)
+    - Actual stone, wood might burn
+    - main base shoule be max 12 inches from ground
+    - need steps to keep multiple small deities. two step is good. both god step should be small depth as we need base broad to keep stuff. 4inch, 4inch, 8inch
+    - straight steps with profile lights in the steps. U shaped steps wastes space
+  - [back](./ideas/WhatsApp%20Image%202026-07-20%20at%2011.47.53.jpeg), [inspiration](./ideas/Screenshot%202026-07-20%20at%2011.45.56 AM.png)
+  - front cover
+    - Curtain will not look good, very different from the other cupboards
+    - Doors that go in will take up space in the left and right. also rails will show killing the look
+    - simple 2 door left right with pattern for ventilation and mandir effect. Out of [these](./ideas/mandir_front_door/) I like [this](./ideas/mandir_front_door/Screenshot%202026-07-20%20at%2012.14.37 PM.png) the best. the bells are functional and will ring on opening the door.
+  - two bells hanging beside Om
+  - The front door will fully match with all other wardrobes

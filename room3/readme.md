@@ -1,5 +1,15 @@
-# Notes
+## Undecided
 
-- [ ] we need to make it symmetrical, we are compromising on looks for utility. TV should be in the midlle
-- [ ] wardrobe with TV [ideas](./ideas/wardrobe_with_tv/)
-- [ ] edge false ceiling
+
+## decided unverified
+
+- Buy wallpaper
+
+## verified
+
+
+## decided forget
+
+- we need to make it symmetrical, we are compromising on looks for utility. TV should be in the midlle
+- wardrobe with TV [ideas](./ideas/wardrobe_with_tv/)
+- edge false ceiling

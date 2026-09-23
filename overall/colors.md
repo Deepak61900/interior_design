@@ -1,3 +1,47 @@
+
+- Colors fine tuning [idea](https://in.pinterest.com/pin/1086774953860226706/)
+
+## Good colors
+<div style="background-color:rgb(242, 236, 225); color:rgb(0, 0, 0); padding: 15px; border-radius: 5px;">
+  color: rgb(242, 236, 225)
+</div>
+<div style="padding: 10px"></div>
+<div style="background-color:rgb(230, 216, 201); color:rgb(0, 0, 0); padding: 15px; border-radius: 5px;">
+  color: rgb(230, 216, 201)
+</div>
+<div style="padding: 10px"></div>
+<div style="background-color:rgb(201, 184, 162); color:rgb(0, 0, 0); padding: 15px; border-radius: 5px;">
+  color: rgb(201, 184, 162)
+</div>
+<div style="padding: 10px"></div>
+<div style="background-color:rgb(168, 156, 141); color:rgb(0, 0, 0); padding: 15px; border-radius: 5px;">
+  color: rgb(168, 156, 141)
+</div>
+<div style="padding: 10px"></div>
+<div style="background-color:rgb(166, 122, 82); color:rgb(0, 0, 0); padding: 15px; border-radius: 5px;">
+  color: rgb(166, 122, 82)
+</div>
+<div style="padding: 10px"></div>
+<div style="background-color:rgb(107, 75, 58); color:rgb(0, 0, 0); padding: 15px; border-radius: 5px;">
+  color: rgb(107, 75, 58)
+</div>
+<div style="padding: 10px"></div>
+<div style="background-color:rgb(138, 144, 127); color:rgb(0, 0, 0); padding: 15px; border-radius: 5px;">
+  color: rgb(138, 144, 127)
+</div>
+<div style="padding: 10px"></div>
+<div style="background-color:rgb(107, 122, 100); color:rgb(0, 0, 0); padding: 15px; border-radius: 5px;">
+  color: rgb(107, 122, 100)
+</div>
+<div style="padding: 10px"></div>
+<div style="background-color:rgb(62, 70, 57); color:rgb(0, 0, 0); padding: 15px; border-radius: 5px;">
+  color: rgb(62, 70, 57)
+</div>
+<div style="padding: 10px"></div>
+<div style="background-color:rgb(51, 51, 51); color:rgb(0, 0, 0); padding: 15px; border-radius: 5px;">
+  color: rgb(51, 51, 51)
+</div>
+
 <div style="background-color:rgb(216, 207, 192); color:rgb(0, 0, 0); padding: 15px; border-radius: 5px;">
   Nordic Beige — rgb(216, 207, 192) — Walls
 </div>
