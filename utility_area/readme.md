@@ -1,7 +1,7 @@
 ## Undecided
 
 - Sink
-  - see if it can have a sink with a counter to put stuff
+  - see if it can have a sink with a counter to put stuff. 300 space in one side keep it in right side. Can't do dry + pot one not enough space
 - where to put soap/liquid. If we do not have counter we need this in wall, we will anyway have this attached to the wall
   - multi layer corner stone slab add
 
